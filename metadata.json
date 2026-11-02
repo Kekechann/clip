@@ -1,0 +1,6 @@
+{
+  "name": "ClipVault Media Downloader",
+  "description": "Automatic clipboard-based image and video downloader with social media platform support, folder and date organization, real-time progress, dark mode, and cross-platform media gallery.",
+  "requestFramePermissions": ["clipboard-read", "clipboard-write"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
